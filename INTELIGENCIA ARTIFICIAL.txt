@@ -1,1 +1,11 @@
 Investigacion sobre IA
+
+Usos de la Inteligencia Artificial
+La IA tiene múltiples aplicaciones en diversos campos:
+•	Desarrollo de Software: Optimización de código, depuración automatizada.
+•	Salud: Diagnósticos médicos, predicción de enfermedades.
+•	Finanzas: Detección de fraudes, análisis de inversiones.
+•	Automatización: Asistentes virtuales, robots industriales.
+•	Seguridad: Reconocimiento facial, monitoreo de amenazas.
+•	Educación: Personalización del aprendizaje, generación de contenido.
+

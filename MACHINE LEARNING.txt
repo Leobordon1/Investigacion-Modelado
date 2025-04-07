@@ -1,1 +1,10 @@
 Investigacion sobre Machine Learning
+
+Machine Learning (aprendizaje automático) es una rama de la inteligencia artificial (IA) que permite a los sistemas aprender patrones a partir de datos sin ser programados explícitamente. Se basa en algoritmos que mejoran su desempeño con la experiencia, dividiéndose en tres categorías principales:
+
+1.	Supervisado: Aprende a partir de datos etiquetados.
+2.	No supervisado: Identifica patrones en datos no etiquetados.
+3.	Por refuerzo: Aprende mediante prueba y error con recompensas.
+
+En el modelado de software, ML se usa para automatizar tareas, mejorar la toma de decisiones y optimizar el rendimiento del sistema. Algunas aplicaciones incluyen detección de anomalías, predicción de fallos y generación de código asistida.
+
